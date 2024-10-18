@@ -1,15 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 # Welcome to the LESSEN Project
 
 LESSEN project has fully funded 14 research positions to work on algorithmic solutions to challenges in conversational intelligence. We are a diverse team of researchers based at multiple universities in the Netherlands, with expertise in information retrieval, natural language processing, machine learning, and customer psychology. As part of the LESSEN project, which is funded by the Dutch Research Council (NWO), we work together with industrial stakeholders Achmea, Ahold Delhaize, Albert Heijn, Bol.com, KPN, and Rasa to develop chat-based conversational agents.
