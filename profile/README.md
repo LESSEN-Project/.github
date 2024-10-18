@@ -27,7 +27,6 @@ Therefore LESSEN is organized along three research lines, each of which constitu
     Scientific Programmer: Knowledge utilization
 
 We provide further descriptions below.
-Descriptions of the research positions
 
 ## Xinyi Chen : Parsimonious architectures. 
 This PhD project is aimed at making neural networks for conversational agents more efficient. How can we reduce their data and compute footprint, both at training time and at inference time? Knowledge distillation has emerged as a potential solution, allowing small student models to learn from, and emulate the performance of, large teacher models. In this project you will develop neural architecture search methods to effectively emulate large conversational models subject to limited memory and parameter budgets.
